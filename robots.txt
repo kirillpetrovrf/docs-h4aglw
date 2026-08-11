@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-tw2l6s.pulaucuan.sbs/sitemap.xml
